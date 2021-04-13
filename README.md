@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/francislagares/francislagares/master/assets/banner.gif" alt="Linkedin">
-
 <p align="center">
 <a href="https://linkedin.com/in/francislagares"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Francis LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/francislagares">
@@ -129,3 +127,4 @@
 </a>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=francislagares&style=flat-square" alt="Aitor1111" /></p>
+
