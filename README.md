@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://linkedin.com/in/francislagares"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Francis LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://github.com/francislagares">
+<a href="https://linkedin.com/in/aitor-trujillo"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Aitor Trujillo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Aitor1111">
   <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
 </a>&nbsp;
 </p>
@@ -50,6 +50,10 @@
   &nbsp;
   <a href='https://www.typescriptlang.org/'>
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  &nbsp;
+	<a href='https://www.typescriptlang.org/'>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   &nbsp;
 </p>
@@ -120,11 +124,11 @@
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francislagares&theme=dark&hide=html,dockerfile" alt="francislagares" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitor1111&theme=dark&hide=html,dockerfile" alt="Aitor1111" />
 </a>
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=francislagares&theme=dark&show_icons=true&line_height=27&" alt="francislagares" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aitor1111&theme=dark&show_icons=true&line_height=27&" alt="Aitor1111" />
 </a>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=francislagares&style=flat-square" alt="Aitor1111" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Aitor1111&style=flat-square" alt="Aitor1111" /></p>
 
